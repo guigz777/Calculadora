@@ -59,7 +59,7 @@ Uma calculadora multifuncional desenvolvida em C++ que oferece funcionalidades d
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/calculadora-multifuncional.git
+   git clone [https://github.com/guigz777/calculadora-multifuncional.git](https://github.com/guigz777/calculadora-multifuncional.git)
    ```
 2. Acesse a pasta do projeto:
 
@@ -103,11 +103,11 @@ Uma calculadora multifuncional desenvolvida em C++ que oferece funcionalidades d
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença BSD 3-Clause (BSD-3).  
-Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença BSD 3-Clause (BSD-3).
+Certifique-se de que o arquivo [LICENSE](LICENSE) contendo o texto completo da licença esteja presente na raiz do seu repositório.
 
 ---
 
 ## 📫 Contato
 
-Desenvolvido por Guilherme (https://github.com/guigz777). Entre em contato para sugestões ou dúvidas!
+Desenvolvido por Guilherme ([https://github.com/guigz777/calculadora-multifuncional](https://github.com/guigz777/calculadora-multifuncional)). Entre em contato para sugestões ou dúvidas!
